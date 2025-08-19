@@ -334,7 +334,7 @@ def load_model_and_tokenizer():
 
 ## 🚀 **Deployment**
 
-### **Heroku Deployment**
+### **Render Deployment**
 The application is configured for easy Heroku deployment:
 
 ```procfile
@@ -409,9 +409,9 @@ This project is open-source and available under the MIT License.
 
 For questions, suggestions, or collaborations:
 
-- 📧 **Email**: your.email@example.com
-- 💼 **LinkedIn**: [Your LinkedIn Profile]
-- 🐙 **GitHub**: [Your GitHub Profile]
+- 📧 **Email**: wajidthephenom@gmail.com
+- 💼 **LinkedIn**: https://www.linkedin.com/in/abdul-wajid-raza-879949272/recent-activity/all/
+- 🐙 **GitHub**: https://github.com/AI-WAJID?tab=repositories
 
 ---
 
