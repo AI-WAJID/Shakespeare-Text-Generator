@@ -6,6 +6,18 @@ An advanced **Deep Learning** project that generates Shakespearean text using **
 
 ---
 
+## Screenshot
+<img width="1917" height="865" alt="Screenshot 2025-08-19 193222" src="https://github.com/user-attachments/assets/45022bfd-0990-40ec-8cb1-df3913d2eaf0" />
+<img width="1495" height="815" alt="Screenshot 2025-08-19 193246" src="https://github.com/user-attachments/assets/996abc06-437d-4473-a8c4-80386c1245d3" />
+<img width="1497" height="804" alt="Screenshot 2025-08-19 193307" src="https://github.com/user-attachments/assets/e7f77a4e-08bf-47a7-bd8b-64fa0aa0ece1" />
+<img width="1497" height="810" alt="Screenshot 2025-08-19 193353" src="https://github.com/user-attachments/assets/fd1d38e3-b8d9-4c10-ac5a-8d606271fa11" />
+<img width="1492" height="800" alt="Screenshot 2025-08-19 193432" src="https://github.com/user-attachments/assets/a39d21a9-511d-4511-824e-f1968e099fcf" />
+
+
+
+
+
+
 ## 🚀 **Project Overview**
 
 This project implements a sophisticated text generation system that learns from Shakespeare's literary works to produce new, contextually relevant text. The application combines modern deep learning techniques with classical literature to create an engaging AI-powered writing assistant.
