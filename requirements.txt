@@ -1,10 +1,9 @@
-tensorflow
-pandas
-numpy
-scikit-learn
-tensorboard
-matplotlib
 streamlit
-scikeras
+tensorflow
+numpy
+pandas
 plotly
 wordcloud
+matplotlib
+seaborn
+Pillow
